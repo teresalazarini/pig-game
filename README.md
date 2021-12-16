@@ -8,3 +8,5 @@ It ends when someone reaches 100.
 - HTML5
 - CSS3
 - JavaScript
+
+![image](https://user-images.githubusercontent.com/81383597/146361498-b76284fc-248b-4a9a-8c67-1b931d1d0d3c.png)
